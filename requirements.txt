@@ -1,0 +1,5 @@
+Telethon==1.34.0
+Flask==3.0.0
+asyncio
+requests
+beautifulsoup4
